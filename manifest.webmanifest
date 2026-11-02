@@ -1,0 +1,17 @@
+{
+  "name": "Word Pas à Pas — Apprendre Word",
+  "short_name": "Word Pas à Pas",
+  "description": "Apprendre Word pas à pas : débutant, intermédiaire et avancé, avec animations et exercices.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F4F7FB",
+  "theme_color": "#163f7a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
